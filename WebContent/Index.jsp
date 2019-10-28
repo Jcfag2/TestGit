@@ -8,7 +8,6 @@
 </head>
 <body>
 <h2>Comment est votre blanquette?</h2>
-<h3>Elle est... BONNE!</h3>
-allez marcel!
+<h2>Est-ce que vos plats à base de pomme de terre sont de bonnes qualités?</h2>
 </body>
 </html>
